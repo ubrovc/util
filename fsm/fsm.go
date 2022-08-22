@@ -5,7 +5,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/free5gc/util/fsm/logger"
+	"github.com/ubrovc/util/fsm/logger"
 )
 
 type (

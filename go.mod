@@ -1,4 +1,4 @@
-module github.com/free5gc/util
+module github.com/ubrovc/util
 
 go 1.14
 
